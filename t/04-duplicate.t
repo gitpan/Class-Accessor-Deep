@@ -1,0 +1,1 @@
+use Test::More skip_all => 'duplicate fields are not yet handled'
