@@ -2,7 +2,6 @@ Changelog
 inc/Module/Install.pm
 inc/Module/Install/Base.pm
 inc/Module/Install/Can.pm
-inc/Module/Install/DSL.pm
 inc/Module/Install/Fetch.pm
 inc/Module/Install/Makefile.pm
 inc/Module/Install/Metadata.pm
@@ -11,6 +10,7 @@ inc/Module/Install/WriteAll.pm
 lib/Class/Accessor/Deep.pm
 Makefile.PL
 MANIFEST			This list of files
+META.yml
 t/00-compile.t
 t/01-ro.t
 t/02-wo.t

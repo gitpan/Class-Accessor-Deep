@@ -1,6 +1,6 @@
 use inc::Module::Install;
 
-name          'Class::Accessor::Deep';
+name          'Class-Accessor-Deep';
 version       '0.01';
 perl_version  '5.008';
 all_from      'lib/Class/Accessor/Deep.pm';
